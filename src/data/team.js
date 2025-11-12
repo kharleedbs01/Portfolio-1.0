@@ -1,0 +1,51 @@
+export const team = [
+  {
+    name: 'Nasir Mohammed Bala',
+    email: 'mohdnas@gmail.com',
+    image: '/nasir.png',
+    username: 'nasir',
+    bio: 'A passionate developer who loves building scalable web apps.',
+    projects: ['Portfolio Website', 'Nigeria Startup Portal', 'Tech Atlas'],
+  },
+  {
+    name: 'Amina Bello',
+    email: 'amina@example.com',
+    image: '/user.png',
+    username: 'amina',
+    bio: 'Frontend developer focusing on creating beautiful UIs.',
+    projects: ['Landing Page', 'Quiz App', 'Chat Interface'],
+  },
+  {
+    name: 'Amina Bello',
+    email: 'amina@example.com',
+    image: '/user.png',
+    username: 'john',
+    bio: 'Backend engineer who enjoys API design and database optimization.',
+    projects: ['REST API', 'Inventory System', 'Task Manager'],
+    },
+  {
+    name: 'Amina Bello',
+    email: 'amina@example.com',
+    image: '/user.png',
+    username: 'john',
+    bio: 'Backend engineer who enjoys API design and database optimization.',
+    projects: ['REST API', 'Inventory System', 'Task Manager'],
+    },
+  {
+    name: 'Amina Bello',
+    email: 'amina@example.com',
+    image: '/user.png',
+    username: 'john',
+    bio: 'Backend engineer who enjoys API design and database optimization.',
+    projects: ['REST API', 'Inventory System', 'Task Manager'],
+    },
+  {
+    name: 'Amina ',
+    email: 'amina@example.com',
+    image: '/user.png',
+    username: 'john',
+    bio: 'Backend engineer who enjoys API design and database optimization.',
+    projects: ['REST API', 'Inventory System', 'Task Manager'],
+  },
+  
+];
