@@ -1,5 +1,6 @@
 import React from "react";
 import "./Khaleed.css";
+import KhaleedNavbar from "../components/khaleed/KhaleedNavbar";
 
 // List of projects to display in the portfolio
 const projects = [
@@ -22,6 +23,8 @@ const projects = [
 
 const Khaleed = () => {
   return (
+    <>
+      <KhaleedNavbar />
     <div className="portfolio-container">
       <h1 className="portfolio-title">My Portfolio</h1>
 
@@ -42,6 +45,7 @@ const Khaleed = () => {
         ))}
       </div>
     </div>
+    </>
   );
 };
 
