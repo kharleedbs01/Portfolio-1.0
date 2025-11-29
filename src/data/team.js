@@ -16,12 +16,12 @@ export const team = [
     projects: ['Landing Page', 'Quiz App', 'Chat Interface'],
   },
   {
-    name: 'Fauziyya Muhammad Abaji',
-    email: 'amina@example.com',
-    image: '/user.png',
-    username: 'john',
-    bio: 'Backend engineer who enjoys API design and database optimization.',
-    projects: ['REST API', 'Inventory System', 'Task Manager'],
+    name: 'Fawziyya Muhammad Abaji',
+    email: 'abajifauziya@gmail.com',
+    image: '/fauziya.png',
+    username: 'Fauziya',
+    bio: 'Soft baby girl living a soft lifestyle.',
+    projects: ['Making money', 'Being a soft girl', 'Becoming a billionaire'],
     },
   {
     name: 'Amina Bello',
